@@ -5,5 +5,4 @@
 y <- 1+7
 print y
 ```
-z <- 6+7
-print z
+
